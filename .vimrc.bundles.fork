@@ -1,4 +1,4 @@
 Bundle 'bkreed/jungle'
 Bundle 'Glench/Vim-Jinja2-Syntax'
-Bundle 'airblade/vim-gitgutter'
+Bundle 'duff/vim-scratch'
 
