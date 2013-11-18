@@ -1,0 +1,12 @@
+au BufNewFile,BufRead *.j2 set filetype=jinja
+UnBundle 'spf13/PIV'
+UnBundle 'PIV'
+
+if has('gui_running')
+    set guifont=,Menlo\ Regular:h14
+endif
+
+set nofoldenable
+set splitbelow
+set splitright
+
