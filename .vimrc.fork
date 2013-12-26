@@ -3,10 +3,13 @@ UnBundle 'spf13/PIV'
 UnBundle 'PIV'
 
 if has('gui_running')
-    set guifont=,Menlo\ Regular:h14
+    set guifont=,Menlo\ Regular:h16
+    set transparency=15
 endif
 
 set nofoldenable
 set splitbelow
 set splitright
+
+colorscheme peaksea
 

@@ -1,4 +1,5 @@
 Bundle 'bkreed/jungle'
 Bundle 'Glench/Vim-Jinja2-Syntax'
 Bundle 'duff/vim-scratch'
+Bundle 'mbadran/headlights'
 
